@@ -4,6 +4,18 @@ Created on Fri May 31 13:30:00 2019
 
 @author: Ruchika
 """
+
+"""
+######################################################################################################################
+CountingClicker can be used to count or track how many people have shown up for a class. Everybody will press a 
+button (click function) and at the end, read function can be used to see the total number of students/people attended
+the class. 
+There is a subclass NoResetClicker and it will be used by students who entered the class and reset button/function
+doesn't work for it so that students can't reset the counter. However, Professor can reset the counter using the reset
+function of the class CountingClicker.
+######################################################################################################################
+"""
+
 # Count how many times a button was pressed
 class CountingClicker:    
     
