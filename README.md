@@ -5,3 +5,4 @@ This repository contains my implementations (on Python 3.7) of the algorithms di
 | ------------- | ------------- |
 | [1_CountingClicker.py](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/CountingClicker.py) | Count or track how many people have shown up for a class |
 | [2_Visualizing_data.py](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/Visualizing_data.py) | Data visualization using matplotlib library|
+| [2_Vector_operations_on_data.py](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/Vector_operations_on_data.py) | Linear algebra operations on data vectors|
