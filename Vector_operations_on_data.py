@@ -105,7 +105,7 @@ def dot(v:Vector, w:Vector)-> float:
     assert len(v) == len(w), "vectors must be of same length"
     return sum(v_i * w_i for v_i, w_i in zip (v,w))
 
-#Call function  
+# Call function  
 print(dot ([1,2,3],[4,5,6]))
     
 
@@ -151,5 +151,5 @@ def distance(v:Vector, w:Vector) -> float:
     #Computes the distance between v and w
     return math.sqrt(sum_of_squares(subtract(v,w)))
 
-#Call function  
+# Call function  
 print(distance([1,2,3],[4,5,6]))
