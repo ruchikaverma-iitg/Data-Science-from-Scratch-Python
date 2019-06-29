@@ -7,3 +7,4 @@ This repository contains my implementations (on Python 3.7) of the algorithms di
 | [2_Visualizing_data.py](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/Visualizing_data.py) | Data visualization using matplotlib library|
 | [3_Vector_operations_on_data.py](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/Vector_operations_on_data.py) | Linear algebra operations on data vectors|
 | [4_matrix_operations.py](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/matrix_operations.py) | Matrix operations|
+| [5_Statistics.py](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/Statistics.py) | Stastistical operations to understand the distribution of data|
