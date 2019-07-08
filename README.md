@@ -1,6 +1,8 @@
 # Data-Science-from-Scratch
 This repository contains my implementations (on Python 3.7) of the algorithms discussed in the aforementioned book "Data Science From Scratch" by Joel Grus.
 
+Python files can be found under "File name" and IPython notebooks to see results and plots of code execution are available under "description & IPython notebook".
+
 | **File name** | **Description & IPython notebook** |
 | ------------- | ------------- |
 | [1_CountingClicker.py](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/CountingClicker.py) | [Count or track](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/CountingClicker.ipynb) how many people have shown up for a class|
