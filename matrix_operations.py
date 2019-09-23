@@ -6,6 +6,11 @@ Created on Tue Jun 25 16:08:27 2019
 """
 #Represent data as Matrices
 
+from typing import Tuple
+import numpy as np
+from typing import List
+from Vector_operations_on_data import Vector 
+
 Matrix = List[List[float]]
 A=[[1,2,3],[4,5,6]]
 B = [[1,2],[3,4],[5,6]]
