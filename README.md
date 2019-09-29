@@ -3,8 +3,8 @@ This repository contains my implementations (on Python 3.7) of the algorithms di
 
 Python files can be found under "File name" and IPython notebooks to see results and plots of code execution are available under "description & IPython notebook".
 
-| **File name** | **Description & IPython notebook** |
-| ------------- | ------------- |
+| **File name** | **IPython notebook**|**Description & IPython notebook** |
+| ------------- | ------------- |------------- |
 | [1_CountingClicker.py](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/CountingClicker.py) | [Count or track](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/CountingClicker.ipynb) how many people have shown up for a class|
 | [2_Visualizing_data.py](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/Visualizing_data.py) | [Data visualization](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/Visualizing_data.ipynb) using matplotlib library|
 | [3_Vector_operations_on_data.py](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/Vector_operations_on_data.py) | Linear algebra operations on [data vectors](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/DataAsVectors.ipynb)|
