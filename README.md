@@ -3,11 +3,11 @@ This repository contains my implementations (on Python 3.7) of the algorithms di
 
 Python files can be found under "File name" and IPython notebooks to see results and plots of code execution are available under "description & IPython notebook".
 
-| **File name** | **IPython notebook**|**Description & IPython notebook** |
+| **File name** | **Python and IPython notebook**|**Description** |
 | ------------- | ------ |------------- |
 | 1_CountingClicker | [.py](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/CountingClicker.py)/[.ipynb](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/CountingClicker.ipynb)  |Count or track how many people have shown up for a class|
-| [2_Visualizing_data.py](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/Visualizing_data.py) | [Data visualization](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/Visualizing_data.ipynb) using matplotlib library|
-| [3_Vector_operations_on_data.py](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/Vector_operations_on_data.py) | Linear algebra operations on [data vectors](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/DataAsVectors.ipynb)|
+| 2_Visualizing_data | [.py](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/Visualizing_data.py)/[.ipynb](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/Visualizing_data.ipynb) | Data visualization using matplotlib library|
+| 3_Vector_operations_on_data | [.py](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/Vector_operations_on_data.py)/[.ipynb](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/DataAsVectors.ipynb) |Linear algebra operations on data vectors|
 | [4_matrix_operations.py](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/matrix_operations.py) | [Matrix operations](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/Matrix_operations.ipynb)|
 | [5_Statistics.py](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/Statistics.py) | [Stastistical operations](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/Statistics.ipynb) to understand the distribution of data|
 | [6_Probability.py](https://github.com/ruchikavermavaid/Data-Science-from-Scratch-Python/blob/master/Probability.py) | Understanding the [data distribution](https://github.com/ruchikavermavaid/Data-Science-from-Scratch-Python/blob/master/Probability.ipynb)|
