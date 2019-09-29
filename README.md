@@ -5,7 +5,7 @@ Python files can be found under "File name" and IPython notebooks to see results
 
 | **File name** | **IPython notebook**|**Description & IPython notebook** |
 | ------------- | ------------- |------------- |
-| [1_CountingClicker.py](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/CountingClicker.py) | [Count or track](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/CountingClicker.ipynb) how many people have shown up for a class|
+| [1_CountingClicker.py](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/CountingClicker.py) | [*](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/CountingClicker.ipynb)  |Count or track how many people have shown up for a class|
 | [2_Visualizing_data.py](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/Visualizing_data.py) | [Data visualization](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/Visualizing_data.ipynb) using matplotlib library|
 | [3_Vector_operations_on_data.py](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/Vector_operations_on_data.py) | Linear algebra operations on [data vectors](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/DataAsVectors.ipynb)|
 | [4_matrix_operations.py](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/matrix_operations.py) | [Matrix operations](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/Matrix_operations.ipynb)|
