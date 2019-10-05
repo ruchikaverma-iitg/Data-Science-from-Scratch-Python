@@ -15,7 +15,7 @@ This repository contains my implementations (on Python 3.7) of the algorithms di
 | 10_Principal_component_analysis |[.py  ](https://github.com/ruchikaverma-iitg/Data-Science-from-Scratch-Python/blob/master/pca.py)/[  .ipynb](https://github.com/ruchikaverma-iitg/Data-Science-from-Scratch-Python/blob/master/pca.ipynb)| Principal component analysis from scratch|
 | 11_machine_learning|[.py  ](https://github.com/ruchikaverma-iitg/Data-Science-from-Scratch-Python/blob/master/machine_learning.py)/[  .ipynb](https://github.com/ruchikaverma-iitg/Data-Science-from-Scratch-Python/blob/master/machine_learning.ipynb)| Train and test data split, functions to evaluate model's accuracy, precision, recall and F1-score|
 | 12_k-Nearest-Neighbors|[.py  ](https://github.com/ruchikaverma-iitg/Data-Science-from-Scratch-Python/blob/master/k-Nearest_Neighbors.py)/[  .ipynb](https://github.com/ruchikaverma-iitg/Data-Science-from-Scratch-Python/blob/master/k-Nearest_Neighbors.ipynb)| Implemention of k-nearest neighbors algorithm from scratch in Python|
-| 13_Naive_Bayes|[.py  ](https://github.com/ruchikaverma-iitg/Data-Science-from-Scratch-Python/blob/master/NaiveBayes.py)/[  .ipynb]| Naive Bayes classifier from scratch to identify words belonging to spam and not spam (ham) emails|
+| 13_Naive_Bayes|[.py  ](https://github.com/ruchikaverma-iitg/Data-Science-from-Scratch-Python/blob/master/NaiveBayes.py)/[  .ipynb](https://github.com/ruchikaverma-iitg/Data-Science-from-Scratch-Python/blob/master/Naive%20Bayes.ipynb)| Naive Bayes classifier from scratch to identify words belonging to spam and not spam (ham) emails|
 
 
 
