@@ -321,7 +321,7 @@ def rescale(data:List[Vector]) -> List[Vector]:
     for v in rescaled:
         for i in range(dim):
             if stdevs[i]>0:
-                v[i] = (v[i] - means[i]/stdevs[i])
+                v[i] = (v[i] - means[i])/stdevs[i]
                 
     return rescaled
 
