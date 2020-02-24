@@ -1,9 +1,9 @@
 # Data-Science-from-Scratch
 This repository contains my implementations (on Python 3.7) of the algorithms discussed in the aforementioned book "Data Science From Scratch" by Joel Grus.
 
-| **File name** | ** Python and IPython notebook **|**Description** 
-| ------------- | ---------------------------- |------------- 
-| 1_Counting_clicker | [.py  ](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/CountingClicker.py)/[  .ipynb](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/CountingClicker.ipynb)|Count or track how many people have shown up for a class|
+| **File name** | **Python and IPython notebook**|**Description**| 
+| ------------- | ----------------------------------|--------------| 
+| 1_Counting_clicker |[.py  ](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/CountingClicker.py)/[  .ipynb](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/CountingClicker.ipynb)Count or track how many people have shown up for a class|
 | 2_Visualizing_data | [.py  ](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/Visualizing_data.py)/[  .ipynb](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/Visualizing_data.ipynb) | Data visualization using matplotlib library|
 | 3_Vector_operations_on_data | [.py  ](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/Vector_operations_on_data.py)/[  .ipynb](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/DataAsVectors.ipynb) |Depicts linear algebra operations on data vectors|
 | 4_Matrix_operations | [.py  ](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/matrix_operations.py)/[  .ipynb](https://github.com/RuchikaVermaVaid/Data-Science-from-Scratch/blob/master/Matrix_operations.ipynb) |Depicts creation and manipulation of matrices|
